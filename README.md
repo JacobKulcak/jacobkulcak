@@ -39,8 +39,7 @@ I am a Computer Science Student at the University of Texas at Dallas
 ---
 
 ### 📓 &nbsp; My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jacobkulcak&theme=elegant)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacokkulcak&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobkulcak&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
